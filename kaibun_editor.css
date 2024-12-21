@@ -1,0 +1,21 @@
+#titleArea {
+	text-align: center;
+}
+
+#inputAreaWrapper {
+	margin: 0 0.5em;
+}
+
+#inputArea {
+	width: 100%;
+	height: 5em;
+	box-sizing: border-box;
+}
+
+#includeLastCheckWrapper {
+	text-align: center;
+}
+
+#resultArea {
+	margin: 1em 0.5em;
+}
